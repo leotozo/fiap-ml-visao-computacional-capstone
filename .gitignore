@@ -1,0 +1,15 @@
+projeto/pesos/*
+!projeto/pesos/.gitkeep 
+
+projeto/modelos/*
+!projeto/modelos/.gitkeep 
+
+projeto/classificadores/*
+!projeto/classificadores/.gitkeep 
+
+projeto/.ipynb_checkpoints
+
+projeto/resultado/All
+projeto/resultado/Executions
+
+.DS_Store
